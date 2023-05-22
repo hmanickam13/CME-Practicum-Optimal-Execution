@@ -5,7 +5,7 @@ This paper presents a comprehensive solution for the efficient liquidation of la
 
 ## Contents
 1. Jupyter Notebook:<br>
-This file contains all the functions which were creeated and used for this project/paper.
+This file contains all the functions which were created and used for this project/paper.
 
 2. Final Presentation:<br>
 This is the presentation my team and I presented in the Practicum Competition organized by the Financial Engineering Department at UIUC.
